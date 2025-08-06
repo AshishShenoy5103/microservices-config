@@ -1,0 +1,7 @@
+@REM start cmd /k "cd registry && mvn spring-boot:run"
+start cmd /k "cd module1 && mvn spring-boot:run"
+start cmd /k "cd module2 && mvn spring-boot:run"
+start cmd /k "cd module3 && mvn spring-boot:run"
+start cmd /k "cd module4 && mvn spring-boot:run"
+start cmd /k "cd module5 && mvn spring-boot:run"
+start cmd /k "cd gateway && mvn spring-boot:run"

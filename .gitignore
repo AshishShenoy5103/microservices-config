@@ -1,0 +1,19 @@
+# 🔧 Ignore IntelliJ IDEA settings
+.idea/
+**/.idea/
+*.iml
+
+# ⚙️ Ignore Maven target folders
+target/
+**/target/
+
+# 🪵 Ignore log files
+*.log
+logs/
+
+# 💻 Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# 🔐 Ignore environment files
+*.env
